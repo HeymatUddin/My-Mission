@@ -106,3 +106,22 @@
         padding: 0% 5%;
         height: 100%;
     }
+    
+    #fourth-section {
+        display: flex;
+        margin: 10vh 5%;
+        height: 70vh;
+    }
+    
+    .fourth-one {
+        width: 50%;
+    }
+    
+    .fourth-two {
+        width: 50%;
+        background-image: url(../images/shapes/shape-1.png);
+        background-size: 40%;
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
