@@ -48,13 +48,21 @@ span {
 
 .box {
     display: flex;
-    border: 2px solid red;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0px 5%;
 }
 
 .boxes {
-    width: 30%;
-    margin: 15px;
+    width: 25%;
     height: 50vh;
+    border-radius: 20px;
+    padding-left: 15px;
+}
+
+.boxes h3 {
+    font-size: 30px;
+    margin: 0px;
 }
 
 .mission {
@@ -67,4 +75,8 @@ span {
 
 .goal {
     background-color: rgb(255, 255, 214);
+}
+
+.image {
+    height: 50%;
 }
