@@ -125,3 +125,30 @@
         background-position-x: right;
         background-position-y: bottom;
     }
+    
+    #fifth-section {
+        display: flex;
+        margin: 10vh 0%;
+    }
+    
+    .fifth-one {
+        width: 338px;
+        height: 542px;
+        position: relative;
+        margin-left: 10%;
+    }
+    
+    .fifth-two {
+        width: 50%;
+        margin: 5% 10%;
+    }
+    
+    .fifth-two div {
+        margin: 5vh 0px;
+    }
+    
+    footer {
+        background-color: black;
+        height: 10vh;
+        padding: 4vh 0vw 10vh 0vw;
+    }
